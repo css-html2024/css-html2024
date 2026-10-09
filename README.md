@@ -1,6 +1,6 @@
 ## Yeey I have a README.md now I'm so cool! :D
 
-This is SpreadingIllogical (<ins>css-html2024</ins> / css-html24x ) <sub>Highlighted is more common</sub>\
+This is SpreadingIllogical (<ins>css-html2024</ins> / css-html24 ) <sub>Highlighted is more common</sub>\
 I sometimes upload slop here?? 🤔
 
 ### Some languages I think are cool
@@ -9,7 +9,7 @@ JavaScript <sup>(excluding scoped variables)</sup>\
 Python\
 Lua\
 C++\
-Rust\
+Rust
 
 # Repositories that you should check out
 CWPort\
@@ -17,17 +17,3 @@ CWPort\
 \
 Thanks for the attention <3\
 ![cute-tet-silly-gif](https://i.giphy.com/T5xhGgoeal2pS0I7KM.webp)
-<!--
-**css-html2024/css-html2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
